@@ -1,0 +1,5 @@
+Self-hosted web fonts (latin subsets), all licensed under the SIL Open Font License 1.1:
+- Archivo (Omnibus-Type) — via @fontsource/archivo
+- Inter (Rasmus Andersson) — via @fontsource-variable/inter
+- JetBrains Mono (JetBrains) — via @fontsource/jetbrains-mono
+License text: https://openfontlicense.org
