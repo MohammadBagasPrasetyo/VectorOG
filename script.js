@@ -59,7 +59,7 @@
       return;
     }
 
-    var DURATION = 6000;
+    var DURATION = 4500;
     var finished = false;
     var locked = [header, main, footer, toTopButton];
 
